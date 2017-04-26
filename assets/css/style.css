@@ -1,0 +1,12 @@
+body{
+	background-image: url("images/zig.png");		
+}
+#questionOne { display: none; }
+#questionTwo { display: none; }
+#questionThree { display: none; }
+#questionFour{ display: none; }
+#questionFive { display: none; }
+
+/*.row{*/
+	background-color: grey;
+}
